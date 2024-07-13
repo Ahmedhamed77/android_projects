@@ -31,7 +31,9 @@ class MainActivity : AppCompatActivity() {
     private fun startHomeActivity() {
 
         val navigationIntent = Intent(this, HomeActivity::class.java);
-        startActivity(navigationIntent)
+        startActivity(navigationIntent);
+
+        finish()
     }
 }
 
