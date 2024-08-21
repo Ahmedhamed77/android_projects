@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">AuthGate</string>
-    <string name="passowrd_hint">Passowrd</string>
-    <string name="login_text">Login</string>
-    <string name="sign_up_for_facebook">Sign up for facebook</string>
-    <string name="help_center">Help center</string>
-    <string name="email_hint">Email</string>
-</resources>
